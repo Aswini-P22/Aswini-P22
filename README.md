@@ -35,7 +35,7 @@ Passionate about building intelligent systems and exploring the world of Artific
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,numpy,pandas,tensorflow,git,github,vscode,colab,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,git,github,vscode,html,css" />
 </p>
 
 ## 📊 GitHub Stats
