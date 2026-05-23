@@ -38,12 +38,6 @@ Passionate about building intelligent systems and exploring the world of Artific
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,git,github,vscode,html,css" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aswini-P22&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
