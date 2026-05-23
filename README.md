@@ -1,5 +1,3 @@
-<img width="1145" height="775" alt="image" src="https://github.com/user-attachments/assets/7d724d68-7516-4e09-8d8b-858fc4a1d72c" />## Hi there 👋
-
 <!--
 **Aswini-P22/Aswini-P22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
