@@ -1,4 +1,4 @@
-<!--
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8349b631-e862-40e3-bcb8-eaea960eb7d9" /><!--
 **Aswini-P22/Aswini-P22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,13 +35,13 @@ Passionate about building intelligent systems and exploring the world of Artific
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,numpy,pandas,tensorflow,git,github,vscode,colab,html,css" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aswini-P22&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aswini-P22&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 🔥 GitHub Streak
